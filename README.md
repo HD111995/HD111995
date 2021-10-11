@@ -3,7 +3,7 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Stats" />
  <h2 align="center">GitHub Stats</h2>
- <p align="center"></p>
+ <p align="center">HTML,CSS,SASS,JS,Node.JS,EJS</p>
 </p>
 
 ## &#x1f4c8; GitHub Stats
