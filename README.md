@@ -1,5 +1,10 @@
 ### Hi there 👋
 **I am a Web-Developer with industry experience building websites and web applications. I specialize in JavaScript, and have experience working with Node.JS and React,C++. I also have professional experience working with HTML, CSS ,SASS and Bootstrab .** <br/><br/><br/>
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">GitHub Readme Stats</h2>
+ <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
+</p>
 
 ## &#x1f4c8; GitHub Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HD111995&theme=dark&show_icons=true">
