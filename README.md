@@ -3,7 +3,7 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Stats" />
  <h2 align="center">GitHub Stats</h2>
- <p align="center">HTML,CSS,SASS,JS,Node.JS,EJS</p>
+ <p align="center">HTML,CSS,SASS,JS,Node.JS,EJS,RESTAPI</p>
 </p>
 
 ## &#x1f4c8; GitHub Stats
@@ -23,4 +23,5 @@
 ![](https://img.shields.io/badge/Backend-Node.JS-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Package-npm-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/VersionControl-GIT-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/REST-API-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
