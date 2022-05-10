@@ -1,5 +1,5 @@
 ### Hi there 👋
-**I am a Web-Developer with  experience building websites and web applications. I specialize in JavaScript, and have experience working with Node.JS and React,C++. I also have professional experience working with HTML, CSS ,SASS and Bootstrab .** <br/><br/><br/>
+**I am a Full-Stack-Developer with  experience building websites and web Applications as like mobile Apllications. I specialize in JavaScript(MERN-Stack), and have professional experience working with HTML, CSS ,SASS and Bootstrab.** <br/><br/><br/>
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Stats" />
  <h2 align="center">GitHub Stats</h2>
