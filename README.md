@@ -1,4 +1,5 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5ce1e6?style=flat-square&logo=Linkedin&logoColor=050a30&link=https://www.linkedin.com/in/akshat-rastogi-3425aa1b8/)](https://www.linkedin.com/in/akshat-rastogi-3425aa1b8/)
 ### Hi there 👋
 **I am a Full-Stack-Developer with  experience building websites and web Applications as like mobile Apllications. I specialize in JavaScript(MERN-Stack), and have professional experience working with HTML, CSS ,SASS and Bootstrab.** <br/><br/><br/>
 <p align="center">
@@ -6,7 +7,7 @@
  <h2 align="center">GitHub Stats</h2>
  <p align="center">HTML,CSS,SASS,JS,Node.JS,EJS,React,ReactNative,RESTAPI</p>
 </p>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5ce1e6?style=flat-square&logo=Linkedin&logoColor=050a30&link=https://www.linkedin.com/in/akshat-rastogi-3425aa1b8/)](https://www.linkedin.com/in/akshat-rastogi-3425aa1b8/)
+
 ## &#x1f4c8; GitHub Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HD111995&theme=onedark&show_icons=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HD111995&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My GitHub Stats" />
