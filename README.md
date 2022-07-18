@@ -25,3 +25,16 @@
 ![](https://img.shields.io/badge/VersionControl-GIT-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/REST-API-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HD111995&column=8&theme=onedark" />
+</div>
+<br/>
+   
+   <div align="center">
+ 
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/HD111995/HD111995/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/HD111995/HD111995/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+  
+</div>
+
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
