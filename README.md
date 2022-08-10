@@ -18,7 +18,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=HD111995&column=8&theme=onedark" />
 </div>
 <br/>
- ![Jokes Card](https://readme-jokes.vercel.app/api)
+
  
  ![github contribution grid snake animation](https://raw.githubusercontent.com/HD111995/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/HD111995/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
@@ -42,3 +42,4 @@
   
 </div>
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
