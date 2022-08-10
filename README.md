@@ -42,4 +42,6 @@
   
 </div>
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
-
+<div>
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
+ </div>
