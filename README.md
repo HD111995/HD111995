@@ -43,5 +43,6 @@
 </div>
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
 <div>
+ ![](https://img.shields.io/badge/REST-API-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
  [![Jokes Card](https://readme-jokes.vercel.app/api)]
  </div>
