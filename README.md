@@ -43,4 +43,5 @@
 </div>
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
  ## 😂 Here is a random joke that'll make you laugh!
-![](https://readme-jokes.vercel.app/api)
+ <br/>
+![Jokes Card](https://readme-jokes.vercel.app/api)
