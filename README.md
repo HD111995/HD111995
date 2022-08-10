@@ -1,5 +1,7 @@
 <p align="center"><img src="https://gpvc.arturio.dev/HD111995" alt="Visitors"></a>
-
+## 😂 Here is a random joke that'll make you laugh!
+ <br/>
+![Jokes Card](https://readme-jokes.vercel.app/api)
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5ce1e6?style=flat-square&logo=Linkedin&logoColor=050a30&link=https://www.linkedin.com/in/hisham-diab/)](https://www.linkedin.com/in/hisham-diab/)
 ### Hi there 👋
@@ -42,6 +44,4 @@
   
 </div>
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
- ## 😂 Here is a random joke that'll make you laugh!
- <br/>
-![](https://readme-jokes.vercel.app/api)
+
