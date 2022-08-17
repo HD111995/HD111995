@@ -20,8 +20,8 @@
 <br/>
 
  
- ![github contribution grid snake animation](https://raw.githubusercontent.com/HD111995/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/HD111995/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+ d![github contribution grid snake animation](https://raw.githubusercontent.com/HD111995/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+d![github contribution grid snake animation](https://raw.githubusercontent.com/HD111995/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
  <br/><br/><br/><br/>
   
 ## 🔧 Technologies & Tools
